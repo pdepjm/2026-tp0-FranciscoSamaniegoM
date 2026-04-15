@@ -17,4 +17,5 @@ Mi legajo es: 233-226.7
 -Me gusta mucho leer, más que nada del genero de suspenso
 
 ## Foto
-![IMG_20260412_215520987~2](https://github.com/user-attachments/assets/49e12b18-2e4a-4d17-8b23-ff5f935b81d1)
+<img width="3072" height="4080" alt="IMG_20260412_215520987~2" src="https://github.com/user-attachments/assets/65a7c714-88a8-458d-a9cf-d6cc13babc10" />
+
